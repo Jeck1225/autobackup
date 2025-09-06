@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.2",
+    "mysql2": "^3.14.4",
+    "node-cron": "^4.2.1"
+  }
+}
