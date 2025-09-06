@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "archiver": "^7.0.1",
     "discord.js": "^14.22.1",
